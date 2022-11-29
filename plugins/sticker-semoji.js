@@ -145,5 +145,4 @@ throw er
 handler.help = ['emoji <tipo> <emoji>']
 handler.tags = ['sticker'] 
 handler.command = ['emoji', 'smoji', 'semoji']
-handler.limit = 2
 export default handler

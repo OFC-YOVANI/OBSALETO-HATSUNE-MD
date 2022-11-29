@@ -14,7 +14,6 @@ handler.help = ['emojimix'].map(v => v + ' emot1|emot2>')
 handler.tags = ['fun']
 handler.command = /^(emojimix)$/i
 export default handler
-handler.limit = 2
 const fetchJson = (url, options) => new Promise(async (resolve, reject) => {
 fetch(url, options)
 .then(response => response.json())

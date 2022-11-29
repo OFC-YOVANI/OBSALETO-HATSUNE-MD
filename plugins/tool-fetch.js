@@ -21,5 +21,4 @@ handler.tags = ['tools']
 handler.alias = ['get', 'fetch']
 handler.command = /^(fetch|get)$/i
 handler.rowner = true
-handler.limit = 2
 export default handler
