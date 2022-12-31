@@ -384,7 +384,7 @@ global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 
 global.wm2 = `▸ ${dia} ${fecha}\n ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ`
-global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.gt = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
 global.Hadesbot = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
 global.md = 'https://github.com/Yovanihades1212/HADES-BOT-MDV2'
 global.Hadesbot = 'https://github.com/Yovanihades1212/HADES-BOT-MDV2'
