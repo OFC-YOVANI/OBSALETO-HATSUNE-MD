@@ -5,7 +5,7 @@
     "main": "index.js",
     "type": "module",
     "directories": {
-        "lib": "lib",
+        "lib": "lib", 
         "src": "src",
         "plugins": "plugins"
     },
