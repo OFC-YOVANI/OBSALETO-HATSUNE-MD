@@ -73,7 +73,7 @@ const { state, saveState } = useSingleFileAuthState(global.authFile)
 const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
-browser: ['THE-HADES-BOT-MD','Edge','1.0.0'],
+browser: ['HATSUNE-MIKU','Edge','1.0.0'],
 }
 
 global.conn = makeWASocket(connectionOptions)
@@ -112,7 +112,7 @@ console.log(chalk.yellow('▣─────────────────
 await conn.sendHydrated(`5212411719888@s.whatsapp.net`, `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙
 ┃ ⛥╭────────────── \n𝙷𝙾𝙻𝙰 𝚈𝙾𝚅𝙰𝙽𝙸, 𝚂𝙴 𝙳𝙴𝚃𝙴𝙲𝚃𝙾 𝚀𝚄𝙴 𝙴𝚂𝚃𝙴 𝙽𝚄𝙼𝙴𝚁𝙾 𝙴𝚂 𝚄𝙽 𝙽𝚄𝙴𝚅𝙾 𝙱𝙾𝚃 𝙰𝙲𝚃𝙸𝚅𝙾 ✅\n┃ ⛥╰───────────
 ╰━━━━━━━━━━━──⊷`, author, pp, null, null, null, null, [['🌱𝙾𝚆𝙽𝙴𝚁📔', '/owner'], ['📚𝙼𝙴𝙽𝚄☘️', '#menu']])
-await conn.groupAcceptInvite('Lf7uQcrPFiJGvmW6xAQ6SN')}}
+await conn.groupAcceptInvite('CSGdLrNH3xj717gRb4aqJO')}}
 
 process.on('uncaughtException', console.error)
 
