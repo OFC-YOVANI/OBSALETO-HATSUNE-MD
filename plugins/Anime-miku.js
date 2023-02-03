@@ -1,0 +1,68 @@
+let handler = async (m, { conn, text, command }) => {
+    let yh = global.miku
+    let url = yh[Math.floor(Math.random() * yh.length)]
+    conn.sendButton(m.chat, `ʀᴀɴᴅᴏᴍ miku- ɪѕ ᴄᴜᴛᴇ `.trim(), author, url, [['🔄 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴 🔄', `/${command}`]], m)
+  }
+  handler.command = /^(miku|Miku)$/i
+  handler.tags = ['anime']
+  handler.help = ['miku']
+  export default handler
+  
+  global.miku = [
+"https://i.imgur.com/oqhV4FJ.jpeg",
+"https://i.imgur.com/0YDjqi5.jpeg",
+"https://i.imgur.com/ff9FZ78.jpeg",
+"https://i.imgur.com/i9N9lT0.jpeg",
+"https://i.imgur.com/1rsfVQM.jpeg",
+"https://i.imgur.com/rNaFFzw.jpeg",
+"https://i.imgur.com/BBsfTYd.jpg",
+"https://i.imgur.com/9nkcbWs.jpeg",
+"https://i.imgur.com/SHXImCY.jpeg",
+"https://i.imgur.com/1AA5gJw.jpeg",
+"https://i.imgur.com/TV6eQ0M.jpeg",
+"https://i.imgur.com/VDWmuKZ.jpeg",
+"https://i.imgur.com/bDq48Hf.png",
+"https://i.imgur.com/QVoX70e.jpeg",
+"https://i.imgur.com/zdMhYae.jpeg",
+"https://i.imgur.com/B6rbbBX.png",
+"https://i.imgur.com/qAfpgsz.jpeg",
+"https://i.imgur.com/JZyDcUU.jpeg",
+"https://i.imgur.com/ZbCJnXu.png",
+"https://i.imgur.com/2ZBUbW8.png",
+"https://i.imgur.com/W9K9TID.jpeg",
+"https://i.imgur.com/KUibuDq.jpeg",
+"https://i.imgur.com/EhkvI4W.jpeg",
+"https://i.imgur.com/GHq39er.jpeg",
+"https://i.imgur.com/86hyakZ.jpeg",
+"https://i.imgur.com/L9STYRs.jpeg",
+"https://i.imgur.com/B6NrubK.png",
+"https://i.imgur.com/myD5CsZ.jpeg",
+"https://i.imgur.com/o0OVscT.jpeg",
+"https://i.imgur.com/PtpmTEU.jpeg",
+"https://i.imgur.com/aLLboAO.jpeg",
+"https://i.imgur.com/iBa3908.jpeg",
+"https://i.imgur.com/nbIhAO5.jpeg",
+"https://i.imgur.com/FUh0LLP.jpeg",
+"https://i.imgur.com/4OalJqn.jpeg",
+"https://i.imgur.com/RKVJG3f.jpeg",
+"https://i.imgur.com/rp4JeNd.jpeg",
+"https://i.imgur.com/dJRSwMY.jpeg",
+"https://i.imgur.com/VMpOhXd.jpeg",
+"https://i.imgur.com/MKEQhJB.jpeg",
+"https://i.imgur.com/tbQ1XSt.jpeg",
+"https://i.imgur.com/9E0k0Vh.jpeg",
+"https://i.imgur.com/whjPeyh.jpeg",
+"https://i.imgur.com/g9UjN9x.jpg",
+"https://i.imgur.com/jOGUfHV.jpeg",
+"https://i.imgur.com/igbc6Jk.jpeg",
+"https://i.imgur.com/lGeUuA6.jpeg",
+"https://i.imgur.com/Aok2Jbk.jpeg",
+"https://i.imgur.com/97bcTQr.jpeg",
+"https://i.imgur.com/iYVlKLY.jpeg",
+"https://i.imgur.com/YdGsAzC.jpeg",
+"https://i.imgur.com/SEPtOqC.jpeg",
+"https://i.imgur.com/WikPb7g.jpg",
+"https://i.imgur.com/CJ1cm7q.jpeg",
+"https://i.imgur.com/pQDoLWn.jpeg",
+"https://i.imgur.com/8S3rbDF.jpeg",
+]
