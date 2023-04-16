@@ -176,7 +176,7 @@ echo -e "\e[36m
 ██║██║░╚███║██████╔╝░░░██║░░░██║░░██║███████╗███████╗  ██║░╚███║██║░░░░░██║░╚═╝░██║
 ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝  ╚═╝░░╚══╝╚═╝░░░░░╚═╝░░░░░╚═╝\n\e[0m"
 
-if command npm install >/dev/null 2>&1; then
+if command npm install >/dev/null 2>&1; then 
 echo -e "\033[01;33mNPM ya estaba instalado anteriormente..\033[0m"
 else
 echo -e "\033[0;34mNPM no se encontró en su sistema. Se instalará NPM automáticamente.\nNPM was not found on your system. NPM will be installed automatically.\n\033[0m"
