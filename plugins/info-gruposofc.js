@@ -33,14 +33,12 @@ let str = `╭━━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎�
 ┃ ⛥│◦➛🌹️ᩭ✎OFICIALES DEL BOT DE👩‍🏫✨
 ┃ ⛥│◦➛🍃️ᩭ✎𝐇𝐀𝐃𝐄𝐒 _𝐁𝐎𝐓 y miku bot 
 ┃ ⛥│◦➛📚️ᩭ✎ SOMOS UNA FAMILIA DE BOTS 
-┃ ⛥│◦➛🌆ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃1 
-┃ ⛥│◦➛🍀ᩭ✎https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0
-┃ ⛥│◦➛☘️ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃2 
-┃ ⛥│◦➛✨ᩭ✎https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ
-┃ ⛥│◦➛📚ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃3 
-┃ ⛥│◦➛❤️ᩭ✎https://chat.whatsapp.com/KnpPbr8BN4VDLtwJFMNTtw
-┃ ⛥│◦➛🌱ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃4 
-┃ ⛥│◦➛📔ᩭ✎https://chat.whatsapp.com/BtzGZregRxzFswm0FgunHL
+┃ ⛥│◦➛☘️ᩭ✎🌹𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄🏓
+┃ ⛥│◦➛✨ᩭ✎https://chat.whatsapp.com/BuloWd29LSnDZHXtUJDybF
+┃ ⛥│◦➛☘️ᩭ✎🔮𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙼𝙳🧿
+┃ ⛥│◦➛✨ᩭ✎https://chat.whatsapp.com/BgyxmpSY2VYE3MT0UbLAgf
+┃ ⛥│◦➛☘️ᩭ✎༺✮𝚂𝙾𝙿𝙾𝚁𝚃𝙴 𝙳𝙴𝙻 𝙱𝙾𝚃✮༻
+┃ ⛥│◦➛✨ᩭ✎https://chat.whatsapp.com/Jhs2WrdiNzY3CML7shPwot
 ┃ ⛥╰───────────
 ╰━━━━━━━━━━━──⊷`.trim()
 let buttons = [
