@@ -5,6 +5,6 @@ function handler(m) {
 handler.help = ['creador', 'programador']
 handler.tags = ['info']
 
-handler.command = /^(yovani)$/i
+handler.command = /^(Deyner)$/i
 
 export default handler
