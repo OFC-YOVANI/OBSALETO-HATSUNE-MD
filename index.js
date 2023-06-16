@@ -13,7 +13,7 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('HATSUNE-MIKU-BOT\nOFC-YOVANI\nWHATSAPP-BOT', {
+say('HATSUNE-MIKU-BOT\nOFC-Deyner\nWHATSAPP-BOT', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -22,10 +22,10 @@ say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.19.0
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI 
-[•]-GRACIAS POR USAR LE BOT DE HADES 
+[•]-Owner :  Deyner
+[•]-GRACIAS POR USAR El BOT DE HADES 
 [•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CERRADO EL BOT YOVANI
+[•]-CERRADO EL BOT Deyner
 |< ================================================== >|`, {
 font: 'console',
 align: 'center',
